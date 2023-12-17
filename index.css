@@ -1,0 +1,70 @@
+
+.bar{
+   background-color: rgb(36, 203, 249);
+   height:90px;
+   position:fixed;
+   z-index: 100;
+   margin:0px;
+   padding: 0px;
+   display:flex;
+   flex-direction: row;
+   top:0;
+   left:0;
+   right:0;
+   justify-content: end;
+   
+}
+
+.menu{
+   display:flex;
+   width:50px;
+   align-items: center;
+   cursor:pointer;
+   padding-left:30px;
+}
+
+.worms{
+   padding-right:30px;
+}
+
+.intro1{
+
+   padding-top:25%;
+   padding-bottom:25%;
+   background-image: url("../images/index2.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-color: rgb(46, 124, 126);
+   background-blend-mode: multiply;
+  
+}
+.intro2{
+   margin-top:10px;
+   padding-top:25%;
+   padding-bottom:25%;
+   background-image: url("../images/plasinhand.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-color: rgb(46, 124, 126);
+   background-blend-mode: multiply;
+}
+.l1{
+   font-size: 50px;
+
+}
+.l2{
+   
+   font-size:30px;
+   margin-left:200px;
+   margin-right:200px;
+}
+.l3{
+   color:antiquewhite;
+   font-size:50px;
+}
+.l4{
+   color:antiquewhite;
+   font-size:30px;
+   margin-right:200px;
+   margin-left:200px;
+}
